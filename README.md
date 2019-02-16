@@ -1,4 +1,4 @@
-## **project_python**
+## **practice_python**
 
 Python practice using Jupyter Notebook. 
 
