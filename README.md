@@ -6,5 +6,5 @@ Main packages used:
 * Pandas
 * Numpy
 * Scipy
-* 
+
 
