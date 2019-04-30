@@ -1,10 +1,10 @@
 ## **practice_python**
 
-Python practice using Jupyter Notebook. 
+Python notebooks written for `Python for Everybody` and `Introduction to Data Science in Python` courses (Coursera)
 
-Main packages:
+Main packages used:
 * Pandas
 * Numpy
 * Scipy
-
+* 
 
